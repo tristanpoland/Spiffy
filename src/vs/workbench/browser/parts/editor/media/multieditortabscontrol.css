@@ -104,6 +104,7 @@
 	height: var(--editor-group-tab-height);
 	box-sizing: border-box;
 	padding-left: 10px;
+	border-radius: 10px;
 }
 
 /* Tab Background Color in/active group/tab */
